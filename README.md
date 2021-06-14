@@ -96,7 +96,7 @@ False negative= 1% pituitary, 0.3% glioma, 1.9% meningioma.
 
 ### Application of deep learning based semantic segmentation model
 
-Random from the test data:
+Random image from the test data:
 
 ![image](https://user-images.githubusercontent.com/53411455/121938322-a7525780-cd19-11eb-9ed5-de5df7444cac.png)
 
