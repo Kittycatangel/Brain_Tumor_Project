@@ -37,7 +37,8 @@ b) Brain_Tumor_Classification_Models.iypnb
 c) Brain_Tumor_segmentation_models.iypnb
 
 
-The trained classification and segmentation models are found in 'saved_models' folder. A presentation of major results can be found as pdf file 'Brain Tumor Diagnosis_presentation'
+The saved trained classification and segmentation models ca not be on GitHub due to exceeding the recommended maximum file size of 50.0 MB . The saved models can be found in the 'Saved_Models' folder on google Drive using the following link : https://drive.google.com/drive/folders/15qBVZhUiW5lCcKIt7_xBL2iUKrTAdMR7?usp=sharing
+A presentation of major results can be found as pdf file 'Brain Tumor Diagnosis_presentation'
 
 
 ## Methodology
