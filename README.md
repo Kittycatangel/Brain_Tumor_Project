@@ -147,7 +147,7 @@ Merits of automatic identification and segmention machine learning models are of
 
 3) Apply diffrent models architecture on brain tumor dataset with optimization:
 
-e.g. Attention Unet, 3D ResUNet, Multi ResUNet, TransUNet, UNet 3+ , UNet++, PSPNet, DeepLab V3+.
+ Attention Unet, 3D ResUNet, Multi ResUNet, TransUNet, UNet 3+ , UNet++, PSPNet, DeepLab V3+.
 
 ## Refernces
 
